@@ -4,8 +4,8 @@ class Animal:
         self.appetite = appetite
         self.is_hungry = is_hungry
 
-def print_name():
+def print_name() -> None:
     pass
 
-def feed():
+def feed() -> None:
     pass
